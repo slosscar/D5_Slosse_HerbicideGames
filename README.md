@@ -47,6 +47,7 @@
 | `motion_stills/motion_still_3_clash.png` | 1.5 s: the clash, red flash | Social end card, bus screens, gate screens | 1920 × 1080 px, PNG |
 | `motion_stills/motion_still_4_wordmark-line-date.png` | 5.5 s: wordmark, line, date and place | Social end card, bus screens, gate screens | 1920 × 1080 px, PNG |
 | `motion_stills/motion_still_vertical_end.png` | End frame of the vertical version | Instagram & TikTok stories | 1080 × 1920 px, PNG |
+| `motion_preview.gif` | Preview of the motion piece “The clash” that plays in the browser (the MP4 is on Canvas) | Social end card, bus screens | 960 × 540 px, 15 fps, 8 s, GIF |
 | `draft/motion_draft_v1_frames.png` | Frames of my original 2.4 s motion draft (v1), every 0.25 s | – | 2400 × 540 px, PNG |
 
 ## Videos (on Canvas, not in this repository)
