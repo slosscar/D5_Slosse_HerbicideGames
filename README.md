@@ -58,12 +58,17 @@
 | `D5_Slosse_motion.mp4` | Motion piece “The clash” | Social end card, bus screens | 1920 × 1080 px, 8 s, MP4 |
 | `D5_Slosse_clip.mp4` | **During** · clip of the bus fight, subtitles, motion piece as end card | Instagram & TikTok | 1080 × 1920 px, 9:16, 25 s, MP4 |
 
+## Brand guidelines (D-6)
+
+The brand guidelines are made in Figma: [Herbicide Games · D-6](https://www.figma.com/design/6Ia4YhPpFGxJjC8J9mNekD) (logo component with variants, colour variables, text styles, components and 18 guideline pages). The exported PDF, `D6_HerbicideGames.pdf`, is on Canvas.
+
 ## Credits and AI use
 
 - Fonts: Cinzel (Natanael Gama, Google Fonts, SIL OFL) · Acumin Pro (Robert Slimbach, Adobe Fonts). Archivo (Omnibus-Type, SIL OFL) stands in for Acumin in the PDFs.
 - Blender (Blender Foundation). The scene scripts were written with AI help (Claude, Anthropic).
 - The key visual layout, the ticket design and its print file, the subtitles and ticket overlay in the capture video, the refined motion piece, the lesson-pack layout (my own text), the poster, the clip and the mock-ups were made with AI help (Claude, Anthropic), from my own still, logo, line, text and motion draft. Logged in the prompt log of my portfolio.
 - The AI picture of the bus in D-4 was made with Google Gemini.
+- Brand guidelines (D-6): I used AI to make the design in Figma. The composition, the style and the texts are mine; Claude (Anthropic) built the Figma file faster, through the Figma connector and a plugin. Logged in the prompt log of my portfolio.
 - Mock-ups: no templates; the stall and the poster street are Blender renders, the phone and laptop frames are drawn in code.
 - Lesson pack facts: Our World in Data (FAO; Singh & Persson 2026, Nature Food), Water Footprint Network (Mekonnen & Hoekstra 2012), rome.us. QR code: segno (BSD).
 - Music: none, the videos have no sound.
