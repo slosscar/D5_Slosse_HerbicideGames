@@ -67,7 +67,7 @@ The brand guidelines are made in Figma: [Herbicide Games · D-6](https://www.fig
 ## Credits and AI use
 
 - Fonts: Cinzel (Natanael Gama, Google Fonts, SIL OFL) · Acumin Pro (Robert Slimbach, Adobe Fonts). Archivo (Omnibus-Type, SIL OFL) stands in for Acumin in the PDFs.
-- Blender (Blender Foundation). The scene scripts were written with AI help (Claude, Anthropic).
+- Blender (Blender Foundation). I asked AI (Claude, Anthropic) for help with the Blender renders: the scene scripts were written with AI help, and Claude helped me render the stills and the video.
 - The key visual layout, the ticket design and its print file, the subtitles in the capture video (I told Claude what they should say) and the ticket overlay, the refined motion piece, the lesson-pack layout (my own text), the poster, the clip and the mock-ups were made with AI help (Claude, Anthropic), from my own still, logo, line, text and motion draft. Logged in the prompt log of my portfolio.
 - The AI picture of the bus in D-4 was made with Google Gemini.
 - Brand guidelines (D-6): I used AI to make the design in Figma. The composition, the style and the texts are mine; Claude (Anthropic) built the Figma file faster, through the Figma connector and a plugin. Logged in the prompt log of my portfolio.
